@@ -1,3 +1,10 @@
+# Doc:
+- https://create-react-app.dev/docs/adding-typescript/
+### Install:
+```shell
+npx create-react-app my-app --template typescript
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
